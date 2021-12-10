@@ -1,0 +1,14 @@
+body{
+    background-color: antiquewhite;
+}
+p.solid{
+    border-style:groove ;border-width: 5px;border-color: darkblue
+    ;
+}
+p{
+    text-align: center;
+}
+.double{
+    border-top-style:solid;border-color: rgb(192, 33, 113);
+}
+
